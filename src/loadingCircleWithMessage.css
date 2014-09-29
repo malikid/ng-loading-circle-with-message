@@ -1,0 +1,10 @@
+.spinner {
+  display: table !important;
+  margin: 0 auto 20px auto;
+}
+
+.loading-circle-with-message {
+  display: table !important;
+  margin: 0 auto;
+  padding: 50px 0;
+}
